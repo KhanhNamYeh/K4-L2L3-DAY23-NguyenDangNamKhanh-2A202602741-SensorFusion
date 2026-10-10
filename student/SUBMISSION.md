@@ -6,7 +6,7 @@
 
 - Họ tên: Nguyễn Đặng Nam Khánh
 - MSSV: 2A202602741
-- Email: 523h0148@student.tdtu.edu.vn
+- Email: khanhndn2005@gmail.com
 - Link repo (fork): https://github.com/KhanhNamYeh/K4-L2L3-DAY23-NguyenDangNamKhanh-2A202602741-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`): commit code + artifacts là `32af3f5ae5311d80f328aae26b0059c040cd7b45` (CP5); hash commit cuối cùng ghi trên LMS.
 
